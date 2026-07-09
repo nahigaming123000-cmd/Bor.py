@@ -14,7 +14,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, Con
 
 # ==================== CONFIG SECTION ====================
 
-BOT_TOKEN = "8671273403:AAE3glIRIJuJNrw1xUTQ-aU1nNFjAkYe8es"
+BOT_TOKEN = "8818304778:AAGS3oErhBrePiw_xa7hYa9OLBdx_U2gY0Y"
 API_KEY = "MURAD_7431E56C7564E91505723DA4"
 BASE_URL = "https://fastxotp.com/@Access/@Bot/3oo9/@public"           # trailing slash ছাড়া বা সহ অটো হ্যান্ডেল হবে
 USER_DATA_FILE = "users.json"
@@ -27,8 +27,8 @@ ACTIVITY_LOGS_FILE = "activity_logs.json"
 DATA_RANGE_FILE = "datarange.json"
 
 # ==================== MULTIPLE ADMINS CONFIGURATION ====================
-ADMINS = [7315122823]
-OTP_GROUP_ID = -1003941468281
+ADMINS = [8216845222]
+OTP_GROUP_ID = -1004337830690
 
 # ==================== OTP RATE & VALUATION ====================
 OTP_RATE = 0.20
@@ -37,8 +37,8 @@ MIN_WITHDRAW = 50
 MAX_WITHDRAW = 10000
 
 # ==================== SUPPORT & DEVELOPER LINKS ====================
-SUPPORT_LINK = "https://t.me/shiyam7444"
-DEVELOPER_LINK = "https://t.me/shiyam744"
+SUPPORT_LINK = "https://t.me/nahivex01"
+DEVELOPER_LINK = "https://t.me/nahivex01"
 
 # ==================== LANGUAGES TRANSLATIONS DATA ====================
 LANG_TEXTS = {
